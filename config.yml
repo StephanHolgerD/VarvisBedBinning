@@ -1,0 +1,6 @@
+BED: hg19_Twist_exome_2_1_annotated_targets_sorted.bed
+Targets:
+    chunksize: 50 
+    depth: 40
+    AF: 0.05
+DB: AltAF_DB.json
